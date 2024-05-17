@@ -1,4 +1,5 @@
 ### Hi there 👋
+I still have no idea what to write about here.
 
 <!--
 **DryntishDev/DryntishDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
